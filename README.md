@@ -12,17 +12,23 @@ A modern and responsive full stack web application for converting currencies in 
 - 🧪 Error handling and input validation
 
 ## 🛠️ Tech Stack
+-React
+-Bootstrap
+-hooks
+-Node.js
+-express.js
+-Mysql
 
 ### Frontend
 - React.js
 - Axios
-- Bootstrap / Tailwind CSS (if applicable)
+- Bootstrap / Tailwind CSS
 
 ### Backend
 - Node.js
 - Express.js
 - dotenv (for environment variables)
-- Any external API for exchange rates (e.g., ExchangeRate-API or Fixer)
+- Any external API for exchange rates 
 
 ## 📁 Project Structure
 
